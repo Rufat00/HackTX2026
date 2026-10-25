@@ -1,0 +1,15 @@
+# Username-only accounts
+
+The user supplies username, password, first name and last name. Usernames are 3–24 ASCII letters/digits/underscores, stored lowercase and constrained unique in PostgreSQL. Names support Unicode. Passwords are 12–128 characters and are never trimmed or normalized. Better Auth performs hashing and owns credential/session records.
+
+The username plugin builds on email/password signup. `POST /api/auth/register` is the only public registration entry point: it validates a strict wire contract, generates `<random-uuid>@accounts.afterglow.invalid` on the server, derives the display name, calls Better Auth's signup API, and preserves its session headers for the Expo plugin. This internal identifier is immutable, non-deliverable and not a verified recovery contact. It is excluded from profile DTOs. Better Auth's internal session object still contains its library-required identity fields; no UI presents an email address.
+
+Only username sign-in, session read, sign-out and the custom registration wrapper are exposed. Direct email signup/sign-in, email changes, password reset/verification and generic user updates are not routed. Business profile changes run through core. There is no self-service account recovery because no recovery contact is collected. There is no recovery UI.
+
+The official Expo client stores cookies/session material in SecureStore. Registration uses the same client's `$fetch`, so plugin response hooks receive the registration cookie. Business requests separately retrieve `authClient.getCookie()` and send `Cookie` with `credentials: omit`. Every business request validates the server session without cookie-cache trust. Native requests use `X-Afterglow-Client: native`; writes from browsers require an explicit trusted Origin. Credentialed CORS allows only configured exact origins; Better Auth's origin and CSRF protections remain enabled. Add only actual development URLs and `afterglow://` to TRUSTED_ORIGINS, never a wildcard.
+
+Logout revokes the session via Better Auth before clearing private query caches. Profile queries consume cancellation signals, keys include user ID, and screens remount on identity changes. Expired sessions redirect through the protected route. A failed logout displays retry feedback instead of claiming success.
+
+Auth schema generation uses the CLI matching the runtime release and the actual username/Expo/additional-field configuration. The generated schema is recorded alongside the application Prisma schema; application-only asset relations and constraints are added through migrations. Do not use `db push`.
+
+Run `pnpm auth:schema` to regenerate `packages/db/prisma/auth.generated.prisma` from the installed configuration. This is a raw CLI artifact: its generated header still uses the older generator/URL style. The application schema deliberately keeps the Prisma 7 generator/config and plural table maps, and integrates the generated model fields with owned asset relations. Compare models when changing plugins; do not replace the application schema wholesale with the raw artifact.

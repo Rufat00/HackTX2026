@@ -1,0 +1,220 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id                  String         @id
+  name                String
+  email               String
+  emailVerified       Boolean        @default(false)
+  image               String?
+  createdAt           DateTime       @default(now())
+  updatedAt           DateTime       @updatedAt
+  username            String?
+  displayUsername     String?
+  firstName           String
+  lastName            String
+  profileImageAssetId String?        @db.Uuid
+  profileImageAsset   Asset?         @relation("ProfileImage", fields: [profileImageAssetId], references: [id], onDelete: SetNull)
+  ownedAssets         Asset[]        @relation("AssetOwner")
+  ownedBoards         Board[]        @relation("BoardOwner")
+  boardMemberships    BoardMember[]
+  contributions       Contribution[]
+  sessions            Session[]
+  accounts            Account[]
+
+  @@unique([email])
+  @@unique([username])
+  @@map("users")
+}
+
+model Session {
+  id        String   @id
+  expiresAt DateTime
+  token     String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  ipAddress String?
+  userAgent String?
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([token])
+  @@index([userId])
+  @@map("sessions")
+}
+
+model Account {
+  id                    String    @id
+  accountId             String
+  providerId            String
+  userId                String
+  user                  User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  accessToken           String?
+  refreshToken          String?
+  idToken               String?
+  accessTokenExpiresAt  DateTime?
+  refreshTokenExpiresAt DateTime?
+  scope                 String?
+  password              String?
+  createdAt             DateTime  @default(now())
+  updatedAt             DateTime  @updatedAt
+
+  @@index([userId])
+  @@map("accounts")
+}
+
+model Verification {
+  id         String   @id
+  identifier String
+  value      String
+  expiresAt  DateTime
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([identifier])
+  @@map("verifications")
+}
+
+enum AssetPurpose {
+  PROFILE
+  MEMORY
+}
+
+enum AssetStatus {
+  PENDING
+  PROCESSING
+  READY
+  FAILED
+}
+
+model Asset {
+  id                 String         @id @default(uuid()) @db.Uuid
+  ownerUserId        String
+  owner              User           @relation("AssetOwner", fields: [ownerUserId], references: [id], onDelete: Cascade)
+  profileUsers       User[]         @relation("ProfileImage")
+  boardId            String?        @db.Uuid
+  board              Board?         @relation(fields: [boardId], references: [id], onDelete: Cascade)
+  contributions      Contribution[]
+  purpose            AssetPurpose
+  sourceKey          String         @unique
+  derivativeKey      String?        @unique
+  mime               String
+  byteSize           Int
+  derivativeByteSize Int?
+  color              String?
+  width              Int?
+  height             Int?
+  status             AssetStatus    @default(PENDING)
+  verifiedAt         DateTime?
+  sourceDeletedAt    DateTime?
+  createdAt          DateTime       @default(now())
+  updatedAt          DateTime       @updatedAt
+
+  @@index([ownerUserId, status])
+  @@index([createdAt])
+  @@map("assets")
+}
+
+enum BoardVisibility {
+  PRIVATE
+  PUBLIC
+}
+
+enum ContributionKind {
+  PHOTO
+  STORY
+  SONG
+}
+
+enum LayoutStatus {
+  PROCESSING
+  READY
+  FAILED
+}
+
+model Board {
+  id                String          @id @db.Uuid
+  ownerUserId       String
+  owner             User            @relation("BoardOwner", fields: [ownerUserId], references: [id], onDelete: Cascade)
+  title             String
+  eventDate         DateTime?       @db.Date
+  contentRevision   Int             @default(0)
+  visibility        BoardVisibility @default(PRIVATE)
+  publishedLayoutId String?         @unique @db.Uuid
+  publishedLayout   BoardLayout?    @relation("PublishedLayout", fields: [publishedLayoutId], references: [id], onDelete: SetNull)
+  members           BoardMember[]
+  contributions     Contribution[]
+  assets            Asset[]
+  layouts           BoardLayout[]   @relation("BoardLayouts")
+  auditEvents       BoardAudit[]
+  createdAt         DateTime        @default(now())
+  updatedAt         DateTime        @updatedAt
+
+  @@index([ownerUserId, updatedAt, id])
+  @@map("boards")
+}
+
+model BoardMember {
+  boardId   String   @db.Uuid
+  board     Board    @relation(fields: [boardId], references: [id], onDelete: Cascade)
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@id([boardId, userId])
+  @@index([userId, boardId])
+  @@map("board_members")
+}
+
+model Contribution {
+  id            String           @id @db.Uuid
+  boardId       String           @db.Uuid
+  board         Board            @relation(fields: [boardId], references: [id], onDelete: Cascade)
+  contributorId String
+  contributor   User             @relation(fields: [contributorId], references: [id], onDelete: Cascade)
+  kind          ContributionKind
+  text          String
+  song          Json?
+  songUrl       String?
+  assetId       String?          @db.Uuid
+  asset         Asset?           @relation(fields: [assetId], references: [id], onDelete: Restrict)
+  deletedAt     DateTime?
+  createdAt     DateTime         @default(now())
+
+  @@index([boardId, deletedAt, createdAt, id])
+  @@map("contributions")
+}
+
+model BoardLayout {
+  id              String       @id @default(uuid()) @db.Uuid
+  boardId         String       @db.Uuid
+  board           Board        @relation("BoardLayouts", fields: [boardId], references: [id], onDelete: Cascade)
+  publishedBy     Board?       @relation("PublishedLayout")
+  contentRevision Int
+  status          LayoutStatus @default(PROCESSING)
+  snapshot        Json
+  analysis        Json?
+  geometryVersion String       @default("masonry-v1")
+  createdAt       DateTime     @default(now())
+
+  @@index([boardId, status, createdAt, id])
+  @@map("board_layouts")
+}
+
+model BoardAudit {
+  id        String   @id @default(uuid()) @db.Uuid
+  boardId   String   @db.Uuid
+  board     Board    @relation(fields: [boardId], references: [id], onDelete: Cascade)
+  actorId   String
+  operation String
+  createdAt DateTime @default(now())
+
+  @@index([boardId, createdAt])
+  @@map("board_audits")
+}

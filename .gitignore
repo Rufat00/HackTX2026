@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.expo/
+dist/
+coverage/
+packages/db/src/generated/
+design/reference/
+
+__pycache__/

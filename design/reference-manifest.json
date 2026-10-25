@@ -1,0 +1,3645 @@
+{
+  "version": 1,
+  "source": {
+    "filename": "Bond ios Aug 2026.zip",
+    "sha256": "1eab71e7ef1c494b9aae719fbd1f4bf730cc1aefae1b6b187787d0f121b177bb"
+  },
+  "screenshotCount": 149,
+  "images": [
+    {
+      "id": "BOND-001",
+      "originalFilename": "Bond ios Aug 2026 0.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "a5780bc9b15301176130ef59b32575c881f3870f289b1c936420ca028982edc0",
+      "dHash": "1313e0060c4c9061",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 0.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Welcome: centered brand/blue sculptural mark, off-white field, black pill Continue, legal copy; logo/photo excluded."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-002",
+      "originalFilename": "Bond ios Aug 2026 1.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "2498bc8a2db0a76961a650656ebc25fa93573999baaaec3da59006efc896174f",
+      "dHash": "83694d62692b8e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 1.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Phone entry empty: circular back and next, large centered title, subdued placeholder, iOS number keyboard."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-003",
+      "originalFilename": "Bond ios Aug 2026 2.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "17e1c1dda1c01a0e7a3eea0932b309fc80e574bc109bb5fe8bbaa8f651dcac9a",
+      "dHash": "83694d622d2b8c4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 2.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Phone entry populated: black input, next arrow white; same layout as 002."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-004",
+      "originalFilename": "Bond ios Aug 2026 3.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "838cd8e56700fd93e4f1794290d768b17b0e960cf85d4f963e5fa30cf1b266ba",
+      "dHash": "83694d4e47178c4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 3.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "OTP empty: six pale rounded cells, gray help and inline Resend; system number keyboard."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-005",
+      "originalFilename": "Bond ios Aug 2026 4.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "bd3b96f165db31c65db3501f15dee16e9153b251274614b05fcd34cf4da5101a",
+      "dHash": "83694d4e47178c4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 4.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "OTP partially filled: first three black digits; same grouped cells."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-006",
+      "originalFilename": "Bond ios Aug 2026 5.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "7330321a47631fc2a2ad091a92c119b6445843de6bd6247c2a42065b2ef36538",
+      "dHash": "4764800e07508c4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 5.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "OTP success: green success copy, spinner within black circular action; no keyboard."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-007",
+      "originalFilename": "Bond ios Aug 2026 6.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "29d601bdc0553c1b8ab44eaac23dbe8b558ef4aa4e26765be62f6dd5838ed973",
+      "dHash": "81b0506146968e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 6.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Name entry empty: large stacked first/last placeholders; keyboard belongs to iOS."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-008",
+      "originalFilename": "Bond ios Aug 2026 7.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "d82ce173f479a979bfbaaf44701c0fae33977309baa38c33d010f8aab147f5bd",
+      "dHash": "81f8c8714c8e8e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 7.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Name entry populated: heavy black stacked names, circular forward action."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-009",
+      "originalFilename": "Bond ios Aug 2026 8.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "be80e46a7d68110453f437ccb36ca76ec67c40c3f7878489edfca2a57ebabeff",
+      "dHash": "83694d6042968e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 8.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Birthday empty: centered label and privacy hint, large date placeholders; product behavior not imported."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-010",
+      "originalFilename": "Bond ios Aug 2026 9.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "6c6c6958ebc0c52b0e04ed301dc02e5b171adcd0d59367c267f96b582e1eb06a",
+      "dHash": "83694d6c06968e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 9.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Birthday validation: coral/red field text and separate textual Invalid birthday notice."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-011",
+      "originalFilename": "Bond ios Aug 2026 10.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "21a184954c2cc2245d672c7eaae7412b7f3161eb7c03fda97cfe33de60b3a5e8",
+      "dHash": "83694d6012928e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 10.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Birthday populated black date, no error; numeric keyboard."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-012",
+      "originalFilename": "Bond ios Aug 2026 11.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "0721d72eae9b43cb64d692e6199dd1791b6674d6b6768bb43367cb3d74684154",
+      "dHash": "63602329210f8e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 11.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Profile-photo empty: circular inset within pale textured rounded card; centered heading/helper; forward action."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-013",
+      "originalFilename": "Bond ios Aug 2026 12.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "fdc17c316a35b5393df7c2441357dca49d802225620f91b6fea8f40a3da35a7c",
+      "dHash": "63610f0f1f0f8e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 12.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Profile-photo filled: large circle portrait, handle footer; Change photo text action."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-014",
+      "originalFilename": "Bond ios Aug 2026 13.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "a0ae989c5eb019176723c45e4b4a581a07afee58922b47494a19bdc048a2467e",
+      "dHash": "636027070f0f0f4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 13.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "First memory: photo with generous white/textured frame, handwritten date below image, Skip secondary and black circular next."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-015",
+      "originalFilename": "Bond ios Aug 2026 14.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "e96bbeacbb651fdb97a6f3088311cd154aba79cdf81db57a3ee961cb03d8f4a3",
+      "dHash": "8170d08cb18e8e71",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 14.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Introduction empty: overlapping tilted identity card behind very rounded white text surface; voice input pill and keyboard."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-016",
+      "originalFilename": "Bond ios Aug 2026 15.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "db610fe41044c80b4ef4159eb14598217461e0fdd38bf8464d08e98ff2009190",
+      "dHash": "8178884c718e8e71",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 15.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Introduction filled: same quote/editor surface, typed text, circular submit in lower right; voice behavior excluded."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-017",
+      "originalFilename": "Bond ios Aug 2026 16.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "9636ccb887b7e86ebe2ff53ed62144edc2cd9871ec9b37a0efa215555bf0a072",
+      "dHash": "1b19610543030f4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 16.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Story preview: pale textured paper square, handwritten text, restrained footer and black Post Story pill."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-018",
+      "originalFilename": "Bond ios Aug 2026 17.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "7362cad047b6b3a20e878c9e2c011a4f68cfa030372cbb58da8fc6ac78a39404",
+      "dHash": "1b19610943030f4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 17.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Story submission failure: white floating pill notification above preserved story and retryable Post Story."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-019",
+      "originalFilename": "Bond ios Aug 2026 18.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "f2a0c5c3319834befee1dd14ac7db885038cc8bb6802bcfe2c9f81b5cee8ad58",
+      "dHash": "8310100f27508c4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 18.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Generation loading: centered title and supporting copy, small pale branded loading symbol; no percentage."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-020",
+      "originalFilename": "Bond ios Aug 2026 19.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "1462a9a250f505792911d21d9828423ad224b77d5c70761f70661c1a34339f8f",
+      "dHash": "63608a333b3b0f4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 19.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Recommendation: white rounded container, rounded photo with gradient text overlay; description below. Photo text not copied for memory bodies."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-021",
+      "originalFilename": "Bond ios Aug 2026 20.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "23d170f665e781b60184b5e87a4d321b22b0706ec6029ad1e75c63d4e4b65831",
+      "dHash": "636090333b3b0f4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 20.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Recommendation same photo, changed supporting copy/fade state; rounded white shell."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-022",
+      "originalFilename": "Bond ios Aug 2026 21.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "40c104cff037625dd23071f6a892f1a7163874f1e9b9d4b04ce6b1c98c8d7253",
+      "dHash": "6360818181168e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 21.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Find friends onboarding: white rounded illustrative list, gray placeholder bars and circular emoji avatars."
+      },
+      "family": "account-onboarding",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-023",
+      "originalFilename": "Bond ios Aug 2026 22.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "033ab9c9a9fadfa2b885589417a8313820e7188ab78f49663b46d39a227580bb",
+      "dHash": "8f4ca0414d4c4e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 22.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Home empty suggestions: story row, circular Add Story, small identity badges, floating discovery pill, three-icon navigation."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-024",
+      "originalFilename": "Bond ios Aug 2026 23.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "385ea8931a52c6775e12203aba47e2f4aeda773d7ec932dc7362ed3bad020d8a",
+      "dHash": "a32a000407a9a992",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 23.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "System photo library dark grid; platform-owned black chrome excluded from app theme."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-025",
+      "originalFilename": "Bond ios Aug 2026 24.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "2c10c58a36eb9d87b056b6a6ef8c958dc9a31751232105a585bb57db73e5acf2",
+      "dHash": "a6a4f6c607b6d482",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 24.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Photo crop: black canvas, circular crop mask; Change/Save pills. Dark editor mode not evidence of a global dark theme."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-026",
+      "originalFilename": "Bond ios Aug 2026 25.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "3c6bc707892e7c430753bcb79a6b16822241b39b99da78643f3c5981a9924e15",
+      "dHash": "83600f0f17968e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 25.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Posting story: identity card retained beneath pending status."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-027",
+      "originalFilename": "Bond ios Aug 2026 26.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "061233a736b24dab9dc1eb26d28c63773c8fe2d82948b3d17c8528d871a09de6",
+      "dHash": "8310000e0f308c4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 26.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Capturing memories: centered status and small blue brand loader, generous white space."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-028",
+      "originalFilename": "Bond ios Aug 2026 27.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "a8d9e9570ccf7487bd3876f080314b6b931c04a45370e517571e4d4a25f46429",
+      "dHash": "8f4c41b1494c0e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 27.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Home with two authors: thumbnail stacks with avatar badges and separate names/times."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-029",
+      "originalFilename": "Bond ios Aug 2026 28.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "6d997ac5d6ee01de3c14817337b0c8bd9c8c2df9eaf4670addf55c7bef976106",
+      "dHash": "8170d0cc8e030e6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 28.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Discover empty input: gray suggestion pills, floating white composer and Add Friends chip above system keyboard."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-030",
+      "originalFilename": "Bond ios Aug 2026 29.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "14ad6ef81a3d3be7c8143b1317cae5fcdab613fd64d0c89870dcde891f605a4b",
+      "dHash": "8178d8cf0e130e6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 29.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Discover populated composer: black circular send replaces voice icon, same keyboard spacing."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-031",
+      "originalFilename": "Bond ios Aug 2026 30.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "370ff64ee4ccc60aa7da4dfc858e7b42c8f99a25ee1c5620202d08570d75a4a9",
+      "dHash": "8320018187108c6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 30.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Discover starting state: floating white rounded summary with divider, avatar and input text; progress copy outside."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-032",
+      "originalFilename": "Bond ios Aug 2026 31.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "a54232f73411171efe0ed5a849acc54b7e41c0a7050f0ba021b816cf3df1dacd",
+      "dHash": "8310000e08108b69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 31.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Searching memories: centered title, small elevated blue loader, sparse background."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-033",
+      "originalFilename": "Bond ios Aug 2026 32.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "2a0a01c2e2945faf90a1e154892289cb5584b52169ee850356843295fd00b8f6",
+      "dHash": "8310000608108b69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 32.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Selecting related memories: count pill and explicit status, no percentage."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-034",
+      "originalFilename": "Bond ios Aug 2026 33.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "d49f27c16eddfd2c04e12691ac10714864d4f21cb25b631fa998dbffad1a83e4",
+      "dHash": "1b5a8103015d5d6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 33.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Recommendation card collapsed: horizontal rounded photo strip, large left-aligned title, subdued metadata/divider/body and related-memory pill."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-035",
+      "originalFilename": "Bond ios Aug 2026 34.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "2d33deb87ec19e04473322b3746beef5d2aaf97fec30eff243230ce1f92c61f0",
+      "dHash": "1b5a8103512b2b6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 34.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Same recommendation with horizontal image strip scrolled, shape and controls unchanged."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-036",
+      "originalFilename": "Bond ios Aug 2026 35.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "74b60e3c57185440a37d86445e9c898a009dc527f9dbd0dd9e814235419c5c51",
+      "dHash": "1b5a8113512b2b6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 35.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Recommendation expanded description with inline Less; bottom Approve secondary and Regenerate primary pills."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-037",
+      "originalFilename": "Bond ios Aug 2026 36.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "83c819be826bc9b40c3fecb2cd12724bbf7c3cd85c4f98a08da70ba645738062",
+      "dHash": "1b5e8513512b2b6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 36.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Participant-left status below recommendation; avatar header changes independently of card."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-038",
+      "originalFilename": "Bond ios Aug 2026 37.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "02b7520fb3688e74c92e4dc03817d264b6ee1e6b41a659c738eb77faa062efac",
+      "dHash": "1b5b052b2b830f69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 37.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Scrolled recommendations: stable translucent header over content, separated rounded white cards, persistent bottom actions."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-039",
+      "originalFilename": "Bond ios Aug 2026 38.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "8eb415f5bf416cf5f5295bb1c2dc6197647aa7d200066686ec95cb22d2f282a6",
+      "dHash": "8170d01f0e03066d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 38.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Voice composer capture: waveform/time, cancel and confirm controls; excluded voice feature."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-040",
+      "originalFilename": "Bond ios Aug 2026 39.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "f94d0e6d2a27c5dfbd9a77ae7558b1ad237524f5f4bdc5a3474e8954c86a42e8",
+      "dHash": "8178d8cb0e130e6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 39.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Wrapped two-line discovery composer after transcription; height grows while retaining send control."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-041",
+      "originalFilename": "Bond ios Aug 2026 40.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "706159058073953533ae9207a6f75dfbafeb1e6575c427b279d7dc8397b597fc",
+      "dHash": "8e8eb282c2ca0c6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 40.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Contributor sheet empty: rounded top corners, dim scrim, handle, gray search pill flanked by close/confirm circles; selected tray."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-042",
+      "originalFilename": "Bond ios Aug 2026 41.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "64b65b002141c2e8b3191178df52d9d45569520c4aa588775a74cb36f36e382d",
+      "dHash": "8168c856994969e2",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 41.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Contributor search results: avatar grid with text labels, initials placeholders and active native keyboard."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-043",
+      "originalFilename": "Bond ios Aug 2026 42.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "7a8977fdfdeeff423a59e7b45b018edc659d5744b555699c34e426501af50e03",
+      "dHash": "8554c856914969e6",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 42.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Contributor selected: black check badge at avatar edge; selection is not color alone."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-044",
+      "originalFilename": "Bond ios Aug 2026 43.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "c2e3370fc4076b535e905257b38b70f0c9562c4e8e576d4405e95885d5821b14",
+      "dHash": "8684ba82c2ca0c6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 43.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Contributor sheet collapsed: bottom selected tray with remove badge and truncated name."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-045",
+      "originalFilename": "Bond ios Aug 2026 44.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "759e3e7357a06e0b46d9f15d44ac52a3ae0a569d5d199e0c8baf5c692891a1f2",
+      "dHash": "8178c8dd1a030e6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 44.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Composer with selected avatar group in pill; overlapping identity circles are decorative UI, not memory cards."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-046",
+      "originalFilename": "Bond ios Aug 2026 45.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "03ea92260129ed5f834ee2a10363a2ff5ad7449bdb7828683af0681aa239d381",
+      "dHash": "5b5a8103512b2b6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 45.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Approved state: avatar/thumb badge on card; Finalize secondary action replaces Approve."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-047",
+      "originalFilename": "Bond ios Aug 2026 46.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "16b6d120fd60b19716e2cc240d62b1b28d338833bc91d36454ec7c9ae17407f7",
+      "dHash": "83108d03015d5d69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 46.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Finalized state: pale green tint and dashed divider with green text/icon; bottom action row gone."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-048",
+      "originalFilename": "Bond ios Aug 2026 47.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "771fe3237236b287fcc7834f10579e07def2ca61244c4c58de1d55abfaa7d70a",
+      "dHash": "86848c03112b2b6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 47.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Approved participants sheet: medium-height bottom modal with handle, named avatar, white Approved pill."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-049",
+      "originalFilename": "Bond ios Aug 2026 48.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "93306efebe42d1496f1df1e156218aec1c009e3b0d509d20ca0161d0369ba9a8",
+      "dHash": "0b3e0c1b41212d49",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 48.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Regeneration feedback: white suggestion pills and Add more feedback button under recommendation."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-050",
+      "originalFilename": "Bond ios Aug 2026 49.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "b454daaa402093f2b4cd42f9f115289ac1c0e48032886e0302f1c982bc502128",
+      "dHash": "1b5a811b41212d49",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 49.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Submitted feedback line attributed to user with subdued relative timestamp; actions remain available."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-051",
+      "originalFilename": "Bond ios Aug 2026 50.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "a6035b8deecb217553f8cb6a24a1d92ebd4ab7e786965819c9dbe247b114ec19",
+      "dHash": "8310000907978b69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 50.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Recommendation skeleton: rounded image placeholders and gray text bars inside the final card outline."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-052",
+      "originalFilename": "Bond ios Aug 2026 51.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "c38c23d36cd413d9bd39e48e0c0662bfc52b1477e65d34513f7c2f5034e5ccba",
+      "dHash": "1b5a8007015d5d69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 51.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Regenerated recommendation populated; same card anatomy as 034 with differing explanatory text."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-053",
+      "originalFilename": "Bond ios Aug 2026 52.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "743bf10c44e777b03a94175e606e5de32b501888dd8cef63af2dfa947ec76522",
+      "dHash": "8353b978f4301586",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 52.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Fullscreen photo viewer: dark image stage, close circle and page dots; contextual dark surface only."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-054",
+      "originalFilename": "Bond ios Aug 2026 53.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "0a908233ba16976e2fb7d6362f6b1cbe753797cd05390abaff03ea53c9545bfc",
+      "dHash": "82868e8e015d5d6d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 53.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Memories-used empty sheet: centered outline mark, Nothing from you yet and supporting guidance."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-055",
+      "originalFilename": "Bond ios Aug 2026 54.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "e396b115e86539caa684134d01f89ef317f39697c5b0e6544e72358e5d7871ec",
+      "dHash": "82809186c4212d49",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 54.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Memories-used populated sheet: white inset list with two text rows, metadata and divider."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-056",
+      "originalFilename": "Bond ios Aug 2026 55.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "f65044d2197ec23b81d501bb16aec5f8bddad76d26bff2c3d642d043d77403e2",
+      "dHash": "8310822321818369",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 55.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Detail page: heading card and Members list, circular avatars, initials fallback, pill row action."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-057",
+      "originalFilename": "Bond ios Aug 2026 56.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "4bb232f8e9bfd851b7fd86cb361732744b2339f71b8e7ac22768cb7b75fe1f32",
+      "dHash": "8310020381818369",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 56.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Member contextual menu: floating white capsule with red trash icon and Remove label."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-058",
+      "originalFilename": "Bond ios Aug 2026 57.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "2f5bb79d63877bf0a81c50658bd32542579f12decff08285845c24414099efd4",
+      "dHash": "831003b280c18369",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 57.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Destructive confirmation: dimmed background, centered rounded dialog, explanation and side-by-side Cancel/Remove; likely native/platform-influenced."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-059",
+      "originalFilename": "Bond ios Aug 2026 58.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "55417eb169dc26a2dce7851c002cf1d0895d4ee46ef102407b2856ffb7081e92",
+      "dHash": "8310080301818369",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 58.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Detail after member removal: one remaining avatar and Add friends row; no stale member count."
+      },
+      "family": "home-and-discovery",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-060",
+      "originalFilename": "Bond ios Aug 2026 59.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "5e756c381336d047334776df7244f7a8d4774c4975c720c1748d910cd75ed14b",
+      "dHash": "8bb2b20000000186",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 59.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Camera capture black stage: shutter, library thumbnail and camera switch; camera/native permission behavior not copied."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-061",
+      "originalFilename": "Bond ios Aug 2026 60.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "7776aee6e721ef7deb5caaf2c9ccee43ed78c2b321ebaa6b990fc7f014462dd8",
+      "dHash": "831000000fb1a996",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 60.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Photo library presented as dark sheet over camera; native/platform-owned grid."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-062",
+      "originalFilename": "Bond ios Aug 2026 61.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "8e4766c76d532d571c5379f8b09d4fbfeac6233e718c3dfc9f73a27aafc00464",
+      "dHash": "83a2a4f0c6e869b2",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 61.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Backstory empty: dark translucent quote editor with thumbnail, Skip pill, native dark keyboard."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-063",
+      "originalFilename": "Bond ios Aug 2026 62.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "5ee5fd74ce34aa2504b407ab9373ae24c19a39954a9471aec144aeaa3b26973a",
+      "dHash": "83a2a4f0b6e86932",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 62.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Backstory typed: white text and white circular check replaces Skip; same editor."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-064",
+      "originalFilename": "Bond ios Aug 2026 63.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "fb0319f8b591e544bea8daafe725dfe44a53befd982b17353f76f802dd9dea55",
+      "dHash": "83c0808080e0ca96",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 63.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Backstory preview: dark quote card with handwritten story and date; decoration not adopted for body copy."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-065",
+      "originalFilename": "Bond ios Aug 2026 64.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "3524bf27ce2e134101af62fedfa769d16b1297f481a8acf2a348dbe905929562",
+      "dHash": "82e0472e4e5ad8af",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 64.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Story compose with photo background, white question sticker and white Post pill; tooltip explains visibility."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-066",
+      "originalFilename": "Bond ios Aug 2026 65.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "c9ae93a963afe61a75283e7c4412a97e431c7f1148c938a1488da0dbcdb229b6",
+      "dHash": "83c0472e4e5ad8af",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 65.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Same story compose after tooltip dismissed; foreground controls retain stable white/black contrast."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-067",
+      "originalFilename": "Bond ios Aug 2026 66.png",
+      "width": 1180,
+      "height": 2676,
+      "sha256": "861eb57937a05a80057b5434669d85b614c213e46e4700f7f53b63f281f40611",
+      "dHash": "8f494bb1494c0e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 66.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Home after story capture: subdued summary banner above discovery pill; recent story thumbnail."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1180, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-068",
+      "originalFilename": "Bond ios Aug 2026 67.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "d9d91da45fc8c511239eb93e26e6618d6f539b24f0ca111d5ed0215d94234479",
+      "dHash": "43c0472e4e5ad82d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 67.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Story viewing: author avatar/name/time, segmented progress bars, close/menu and swipe hint; guided stories deferred."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-069",
+      "originalFilename": "Bond ios Aug 2026 68.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "ca4e5e7fb40b238e0f2435d571f9a898ff4468286bf9a44a6c95476a0c03cb84",
+      "dHash": "43c0472e4e5ad82d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 68.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Story view with small viewer/comment counts; reference-specific social counts not implemented."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-070",
+      "originalFilename": "Bond ios Aug 2026 69.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "6743549335fcc4d203c2120c91daf791edeac45c37b1cf88b50b43e1d63155b7",
+      "dHash": "82c2c62e4e5ad887",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 69.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Visibility sheet: two white rows, selected check radio and unselected outlined circle; explicit scope wording."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-071",
+      "originalFilename": "Bond ios Aug 2026 70.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "182bbdcddd6f3ff0afd323e36b3bd9172d77297011a8912abd2a3b8a8eccf44d",
+      "dHash": "83c0472e4e49cea7",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 70.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Story compose private visibility: lock replaces audience icon; question sticker absent."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-072",
+      "originalFilename": "Bond ios Aug 2026 71.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "d75a07b4d9186a3030c03bbbe8c05cf04a38faa6f4a505a4be822556619c7561",
+      "dHash": "82138a8c4e5ad887",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 71.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Mention explanation sheet: large @ symbol, concise icon/text rows and black full-width OK."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-073",
+      "originalFilename": "Bond ios Aug 2026 72.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "eea52b91752a789a88a57aaaf090283b8c8caf478e59aaec9c6fec5702d2c2df",
+      "dHash": "13128280a01ad887",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 72.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Tag friends sheet empty: heading, pale search field, explicit explanatory text, No connections yet, black Done."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-074",
+      "originalFilename": "Bond ios Aug 2026 73.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "91011ea890a6a78d9ea11c3850501c2862656d67b2f96f958098aefcb0cb08eb",
+      "dHash": "13128280a01ad887",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 73.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Tag friends sheet populated: avatar/name row with empty circular selector."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-075",
+      "originalFilename": "Bond ios Aug 2026 74.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "f53f74e8567638cc430e71fbcb336b253689b86e14a9121431457a74fb2f30dd",
+      "dHash": "131282c0a01ad887",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 74.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Tag friends selected: black check selector; same visible name."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-076",
+      "originalFilename": "Bond ios Aug 2026 75.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "33365cfd6326ceb6f6f5f57127915110d0751ce3aa89de648b7607e07e3205de",
+      "dHash": "81c0472e4e5ad8af",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 75.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Story compose after mention: chosen avatar appears beneath @ icon; explicit tag UI stays separate."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-077",
+      "originalFilename": "Bond ios Aug 2026 76.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "f9c3fa8f2f9a8015a963f099f6afbae4161e7754df94e7494ac48217d5f4262b",
+      "dHash": "83e203364e5ad88f",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 76.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Question sticker editing: text changes, dark keyboard and compact text-alignment/style toolbar."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-078",
+      "originalFilename": "Bond ios Aug 2026 77.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "0d5ed23c1913be80bd00c3998570d8e78a6958b57f7b0e60d8ce9c09a770224d",
+      "dHash": "83e203364e5ade8d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 77.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Same sticker editor with centered alignment; white sticker remains stable against photo."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-079",
+      "originalFilename": "Bond ios Aug 2026 78.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "c205e0127849414b15415a1df8dc91a8c8847b34714d7752d048b29736864eb1",
+      "dHash": "83e2033e4e49cd87",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 78.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Sticker editor dark variant with inverted text; contextual customization, not app-wide dark-mode evidence."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-080",
+      "originalFilename": "Bond ios Aug 2026 79.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "dac098ea6330cbde9c51f58cb21c8403ccf5b93f24426fbdf0fa7ea3121d451d",
+      "dHash": "83c0472e4e49c5a7",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 79.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Story compose after dark sticker edit: Post and audience controls restored."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-081",
+      "originalFilename": "Bond ios Aug 2026 80.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "c973acfff7263bb12558abf1a49245c701842e5f61587ba5518e34c66fa5dd18",
+      "dHash": "83100009e0e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 80.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Story activity sheet empty: segmented viewer/comment/backstory controls; black photo stage above white sheet."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-082",
+      "originalFilename": "Bond ios Aug 2026 81.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "8d980942918386d8ce2f05f8d32d977764eed65b34b84218d1d27371a8014230",
+      "dHash": "83100100e0ea79f9",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 81.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Activity viewers list populated: avatar/name row; selected viewer pill includes icon/count."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-083",
+      "originalFilename": "Bond ios Aug 2026 82.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "ecd8239bffbf0cb92edbda489b411ff9d7fb34b0d87d70efdafed44bc5a524ed",
+      "dHash": "83102013e3ea79f9",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 82.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Activity questions tab: white compact card with avatar, name, subdued asked-a-question label and chevron."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-084",
+      "originalFilename": "Bond ios Aug 2026 83.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "02e93157ca0b970539e82a29ff83cca7d344331055052c8f47f791c4fb582e8f",
+      "dHash": "832897c1a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 83.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Answer detail sheet: question and response separated by divider, author identity and Approve/Update chips."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-085",
+      "originalFilename": "Bond ios Aug 2026 84.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "b97f066f1fcf6882c18b4a963f575abf54f172f960f45b19e05e69cfe5a52516",
+      "dHash": "833887c1a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 84.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Answer approved: black selected Approved chip; update remains pale."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-086",
+      "originalFilename": "Bond ios Aug 2026 85.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "69a7ff515f42bca676908397a07e18465b147af9610ef65d40010fc427d63a74",
+      "dHash": "8170c6c1a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 85.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Answer editing: floating white composer raised above native keyboard; preserves question context."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-087",
+      "originalFilename": "Bond ios Aug 2026 86.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "f36071019f473ebae65b4336127981b5e5613c6334e4934a1b5682225fc1a48d",
+      "dHash": "8178c6c1a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 86.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Answer editor populated: black send circle; avatar remains at leading edge."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-088",
+      "originalFilename": "Bond ios Aug 2026 87.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "5be56558663c618230d5bd6a6518a96ba12ed17dcbf200bd930289e426db4835",
+      "dHash": "8320c3c1a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 87.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Updated answer: explicit Updated by attribution, new answer and Edit chip."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-089",
+      "originalFilename": "Bond ios Aug 2026 88.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "d20073219a3ba102cc7d179edbdf8a96c7bf3431f1034fdd5d2ccaeb78391984",
+      "dHash": "83101001e0ea79f9",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 88.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Backstory tab selected: white quote surface with plain body and privacy explanation; content not public."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-090",
+      "originalFilename": "Bond ios Aug 2026 89.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "9427bb2429b3ff31877641ad72f0c0f222f666e88b131800f45dfebd9733806b",
+      "dHash": "43c0472e4e5ad82d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 89.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Story contextual deletion menu: white compact popover, red Delete and trash icon."
+      },
+      "family": "capture-and-story",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-091",
+      "originalFilename": "Bond ios Aug 2026 90.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "be32fdb4124a5b6d0ca0ab3bfa4bfae728207aac36967fa5e53045ba04f1253b",
+      "dHash": "8f4c41b1494c0e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 90.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Home with restored older story and second author; same story list/navigation as 028, timestamps differ."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-092",
+      "originalFilename": "Bond ios Aug 2026 91.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "fa847e0237eb4c3a8c21624b7bbc1b95879906a0182bf582a09e55ddafa0a9fa",
+      "dHash": "a91a1f0b0b0f1768",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 91.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Bond tutorial story: illustrative overlapping media and blue recommendation strip; promotional collage not memory layout."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-093",
+      "originalFilename": "Bond ios Aug 2026 92.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "a1fa74b3eb29892b67b33c4b118ddaf4087ad210361d1d367d821f720675199e",
+      "dHash": "0313ac0703238461",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 92.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Tutorial question story: heavy condensed sticker typography and dark composer; specialty display face unknown."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-094",
+      "originalFilename": "Bond ios Aug 2026 93.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "5799e8a85df6a8c540699c49df8d6033ccb76a35ef83fd3f51f23a76ba739300",
+      "dHash": "02c0472e4e49ce25",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 93.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Mention recipient story: explicit mentioned-you message, avatar composer and outlined heart/repost actions."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-095",
+      "originalFilename": "Bond ios Aug 2026 94.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "9b5e3ea525bf0aab22051cacf765eb90b43e80d07e63e5fedd8ca818152541e8",
+      "dHash": "8f4ca0414d4c0e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 94.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Home after mention: only own story tile remains; unchanged floating search/navigation."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-096",
+      "originalFilename": "Bond ios Aug 2026 95.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "f08391ca9cc2e9e09ce3668a4673762065fce4f0c94b354425225a2945ac93c2",
+      "dHash": "85650015a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 95.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Ask-author sheet: compact photo above sheet, centered identity heading and horizontal prompt chips."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-097",
+      "originalFilename": "Bond ios Aug 2026 96.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "8aa438eb68e3dce0a8d20e69746cb6b34ed71570046f8f25b143d7810f6763e8",
+      "dHash": "81510015a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 96.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Same ask sheet with different prompt chips scrolled."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-098",
+      "originalFilename": "Bond ios Aug 2026 97.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "97580413ad25aa2c6f3661288decc5b72e82e44e77919ead6f58e60566e4e2e1",
+      "dHash": "8178c8c9a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 97.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Question composer populated above keyboard with black send circle."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-099",
+      "originalFilename": "Bond ios Aug 2026 98.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "cef0cb26bc086a425688b8d8c92d3eb7d8947d123b5bcdd78828e9d4d23b01fe",
+      "dHash": "81480101a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 98.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Question/answer card as viewer: identities separated, response attribution and unselected heart."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-100",
+      "originalFilename": "Bond ios Aug 2026 99.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "2d83ed10c6175dd46a50545795710480617b467f333537b2d619489be6b4054f",
+      "dHash": "81600101a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 99.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Updated answer visible to viewer with explicit Updated by metadata; provenance retained."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-101",
+      "originalFilename": "Bond ios Aug 2026 100.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "8a25ad37ee5d7d2c0da490eb712d31e0ef32e45e7f06ff56e6c0b6830b900128",
+      "dHash": "81408501a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 100.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Answer history expanded: subdued original answer below updated answer with dashed vertical connector."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-102",
+      "originalFilename": "Bond ios Aug 2026 101.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "1cca8846446de22e9746189effad97b7bdb6a9c4d55a3fc107f9403af6b663c8",
+      "dHash": "81604141a2e878f8",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 101.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Liked answer: bright pink filled heart; optional social signal excluded from Afterglow initial scope."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-103",
+      "originalFilename": "Bond ios Aug 2026 102.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "84fd20157a64eb4901e4dde2db33d2482e76a04c085317b332707562954fe37f",
+      "dHash": "02c0472e4e5ad82d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 102.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Liked story: bright pink heart on dark circular action; same viewer controls."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-104",
+      "originalFilename": "Bond ios Aug 2026 103.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "e58c400c92048ec0d556019de9dcc7481490a631b994cb3555ca174518b3a09a",
+      "dHash": "9a1a8e8ece5ad82d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 103.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Repost confirmation sheet: framed thumbnail, centered explanatory text, Not Now secondary and black Add to Story."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-105",
+      "originalFilename": "Bond ios Aug 2026 104.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "9a6843284ee549b92cb7f1b0f86e4b8b2ce17503e69534a28c6bcb577931fbbf",
+      "dHash": "83a2ace0e0e869b2",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 104.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Reposted backstory empty with suggested text, dark quote editor and keyboard."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-106",
+      "originalFilename": "Bond ios Aug 2026 105.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "dbc5d6e2543d408951a585f32f46ea5d188471a2a0fa8637106f1f5cd5052fdb",
+      "dHash": "833280e0e8e86932",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 105.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Repost backstory entered with white text and confirm check."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-107",
+      "originalFilename": "Bond ios Aug 2026 106.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "9472abfd33e40aeb4b0dfa84d9951545cd49caab7576c2ec738c409da96e5d4f",
+      "dHash": "83c0808080b49696",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 106.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Repost backstory preview: handwritten text on dark surface; same preview as 064."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-108",
+      "originalFilename": "Bond ios Aug 2026 107.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "d437046e18445b03ff7faac092c640875a9c0ce6ab79ae90aed6759400997237",
+      "dHash": "89d8facceccccc93",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 107.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Repost composition: centered photo on dark background, author provenance, floating question sticker and white Post."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-109",
+      "originalFilename": "Bond ios Aug 2026 108.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "f7dfa1ae562bbe39336644c2ee1fb80e08da0e1c75a4111e84a98b80bb39d9db",
+      "dHash": "89d8facceccccc92",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 108.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Repost failure: dark translucent notification with red outlined warning and retained draft/post action."
+      },
+      "family": "story-and-conversation",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-110",
+      "originalFilename": "Bond ios Aug 2026 109.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "1aa6116a3b1dcf990c9e99b5b8a1e33a63e9fa85784f8108ce3e2398f60e3b64",
+      "dHash": "8170d05100000269",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 109.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Connection search empty: pale capsule field with leading close circle and native keyboard."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-111",
+      "originalFilename": "Bond ios Aug 2026 110.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "42bf62eb6993a1d2140d7ee1b3004abeb0bb7e37c59c39819c16d98c9e402808",
+      "dHash": "8310026060607071",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 110.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Connection search results with blue Accept/Connect pills and black Deny; blue appears in social actions, not all primary buttons."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-112",
+      "originalFilename": "Bond ios Aug 2026 111.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "8a06d3a2b977933e26d5855c7522570f205396aa581bf0d32ffb1e2cc9ee87c7",
+      "dHash": "8310026060606061",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 111.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Connection accepted: action pair removed for first row; other Connect pills unchanged."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-113",
+      "originalFilename": "Bond ios Aug 2026 112.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "45f63dc543f8d99b1db00fce027c85618dab61fc34b9f1f8e7933fcc406c0bd4",
+      "dHash": "834100200c8ecc69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 112.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Profile not connected: centered avatar/name/count badge, black Connect, disabled low-contrast question composer."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-114",
+      "originalFilename": "Bond ios Aug 2026 113.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "dfd59311ec1839ba115d7a7a7f86539b54d14336a94edc573bacb205a694519c",
+      "dHash": "85d1020010068c69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 113.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Profile connected: avatar/name/count badge, enabled floating question composer."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-115",
+      "originalFilename": "Bond ios Aug 2026 114.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "133b2279d6c5c9675c3d19c4e9b155cd1ce840cefdac1b2bbe43b674305aaa6b",
+      "dHash": "85d1020004c38165",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 114.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Conversation opened from profile: compact identity header and white question/answer card."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-116",
+      "originalFilename": "Bond ios Aug 2026 115.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "a41e57169309bf30d33ac3c9dc6b13ded1b3f7447bf2c7e90836911ef179bdf5",
+      "dHash": "83410000100ecc69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 115.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Profile request pending: pale Requested pill and explicit unlock explanation; composer disabled."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-117",
+      "originalFilename": "Bond ios Aug 2026 116.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "e896efa03d7b314201de4eddeac6f47dd1351c1e5c65a650fb11f42c64d2aa60",
+      "dHash": "81f86dc950068c69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 116.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Profile composer focused and populated: black send circle, native keyboard; header remains visible."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-118",
+      "originalFilename": "Bond ios Aug 2026 117.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "8501bca5c13feb5a465192560702bc5d92bcf5aa33a7f172aa4937d24c5eab6e",
+      "dHash": "8170d0c504818165",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 117.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Conversation classifying state: gray status inside response row rather than blocking overlay."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-119",
+      "originalFilename": "Bond ios Aug 2026 118.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "9872406c0c7bd6ed579fc485be78f35efe476168fb7a71c7b5517063f240a4b9",
+      "dHash": "8a8e8e86860ecc69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 118.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Memory-count explanation sheet: identity illustration and concise text, white Got it pill; artwork not reused."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-120",
+      "originalFilename": "Bond ios Aug 2026 119.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "89eaca52918aa6c346a6440a3559648c246448e41a098f60195dd7d1c6e35fa3",
+      "dHash": "85d10200100e8e49",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 119.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Profile contextual menu: white floating panel with Disconnect and red Report."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-121",
+      "originalFilename": "Bond ios Aug 2026 120.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "073d9480ce3f87d8b7fb9a7c8dbedd4ebdedb789bd1de59e7a88aa612c2f2e47",
+      "dHash": "85450292b2c38165",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 120.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Disconnect confirmation: centered rounded dialog, supporting text, gray Cancel and red Disconnect labels."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-122",
+      "originalFilename": "Bond ios Aug 2026 121.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "559e1a1e18a1b7e7b46a0b8667bf30d8d03df3cfc15536881724eca14152d507",
+      "dHash": "8f4c45b1494c0e4d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 121.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Home after discussion updates: memory count changes, same thumbnail row and navigation."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-123",
+      "originalFilename": "Bond ios Aug 2026 122.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "415ad3348b5ee79415591db047f125b7fe98bfa374b6570df34daaf76e348d45",
+      "dHash": "810102200c0e8c69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 122.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Disconnected profile: black Connect reappears and disabled composer; same visual contract as 113."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-124",
+      "originalFilename": "Bond ios Aug 2026 123.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "a819330c719ef2eff4a7ca16ec0cab080c5409dc0560e0d8aa6999398de12620",
+      "dHash": "850502200c0e0f61",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 123.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Report confirmation notification: white floating capsule with two-line success copy."
+      },
+      "family": "connections-and-profile",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-125",
+      "originalFilename": "Bond ios Aug 2026 124.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "850e9cc012076f4554fa58d1dae92b0607ec8491d4fb000ccfbdd901d22c128c",
+      "dHash": "871608c41b1381e9",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 124.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Memories overview empty: count/avatar header, large white discovery card with small photo strip and black action."
+      },
+      "family": "memories-and-exploration",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-126",
+      "originalFilename": "Bond ios Aug 2026 125.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "5460cd4126a49d30533ba727e2c67763e9062ef3ab2ddabf7f6a66fc34b8cb30",
+      "dHash": "875541411b1381e9",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 125.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Memories overview populated: Recent section with white rounded summary rows, thumbnails and relative times."
+      },
+      "family": "memories-and-exploration",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-127",
+      "originalFilename": "Bond ios Aug 2026 126.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "256d06c54b843a4a6388afae3ded1e7b7a730f37a602feb92d1de62a4aed973e",
+      "dHash": "875641414161492d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 126.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "All memories: pale category chips, bounded white list cards with title/metadata/thumb, floating Explore memories action."
+      },
+      "family": "memories-and-exploration",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-128",
+      "originalFilename": "Bond ios Aug 2026 127.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "47baa0773ef01b1653686d517176690183e329d646f05572409b7d37b273240d",
+      "dHash": "836000060e108655",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 127.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Explore memories empty: centered neutral mark/message and bottom white composer."
+      },
+      "family": "memories-and-exploration",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-129",
+      "originalFilename": "Bond ios Aug 2026 128.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "6b79a90b0c22da2fc8b4a6805517c677c3954e7f37aea39fe37b470332e8cf25",
+      "dHash": "8178c8c3820e8655",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 128.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Explore memories focused: populated composer above keyboard; no results yet."
+      },
+      "family": "memories-and-exploration",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-130",
+      "originalFilename": "Bond ios Aug 2026 129.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "5db13d4e4b0fddba38c6d93eb8a04e0128ad3e23cdee1c58a70d21cbb482fc5a",
+      "dHash": "8360000000200455",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 129.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Explore memories pending: user message pill and searching status in content, composer remains available."
+      },
+      "family": "memories-and-exploration",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-131",
+      "originalFilename": "Bond ios Aug 2026 130.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "c91c06c3afa6ba4f8881453d684baf527038a4d2a9e9d266e0437e1c9723aea5",
+      "dHash": "8364000000090d55",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 130.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Explore response empty-result prose: left-aligned text, divider and copy icon; no fabricated results."
+      },
+      "family": "memories-and-exploration",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-132",
+      "originalFilename": "Bond ios Aug 2026 131.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "7ccc539822a851d63013826458aefe9766f27ae5d30ca0e3e9bc22490482c7fa",
+      "dHash": "8364000041491555",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 131.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Explore response in Spanish: long body wrapping and linked memory summary card within response."
+      },
+      "family": "memories-and-exploration",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-133",
+      "originalFilename": "Bond ios Aug 2026 132.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "735381bff96aeb3d3497cce34a5c3e1aa8405d97089f69b415891d2aa45850b7",
+      "dHash": "8364000041491555",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 132.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Copied response state: copy icon changes to check; content unchanged."
+      },
+      "family": "memories-and-exploration",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-134",
+      "originalFilename": "Bond ios Aug 2026 133.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "b4beb939a8ba7782cdc3d0ba9cbb292a798e861ffa0bd20dd1911cde7ee9612a",
+      "dHash": "871620451b1b896d",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 133.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Own-profile menu: white rounded context panel, photo/name/share rows, red Logout and More."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-135",
+      "originalFilename": "Bond ios Aug 2026 134.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "6cb2c1b44705dc1f65ada8406ceae822f13f599fa59c5ce6114273e691a668a8",
+      "dHash": "6360232361078661",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 134.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Change profile photo empty: same framed circular placeholder as onboarding, close and circular next."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-136",
+      "originalFilename": "Bond ios Aug 2026 135.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "0b65081b77486c1efaacdede0ad9142a3eae2b2ab42160ec16b1e046bef1fe34",
+      "dHash": "8300000407a9a992",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 135.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "System photo library again; same native asset grid as 024, slight route chrome variation."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-137",
+      "originalFilename": "Bond ios Aug 2026 136.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "80ae78eba4f6be096ebfbe086d3e74cde7d12bfb21a98585739350d7f2eac5bd",
+      "dHash": "a6a470c80e8ccc82",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 136.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Profile crop with different portrait; same black canvas and Change/Save pills as 025."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-138",
+      "originalFilename": "Bond ios Aug 2026 137.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "181b02fba924b26ca8cdc382a75562ceb98c23ff4315481ad22930f8ac2b742a",
+      "dHash": "6361070f0f0fb261",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 137.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Changed profile-photo preview: new circle portrait, handle footer and Change photo text action."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-139",
+      "originalFilename": "Bond ios Aug 2026 138.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "f394eb14acf788ca39f55f53718ca208ef62b04e5d620bbc3d55327ad15d8ebb",
+      "dHash": "871620451b1381e9",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 138.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Memories overview after avatar update: header portrait changes; list/card layout stays stable."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-140",
+      "originalFilename": "Bond ios Aug 2026 139.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "8b0721491e1d1e14d91532ed1bc201477b7db2deb0fc719c98711ab42cede264",
+      "dHash": "e17888714c8e9669",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 139.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Name editor: large stacked names, close circle, forward circle and native keyboard with blue Done."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-141",
+      "originalFilename": "Bond ios Aug 2026 140.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "9315813c5b1ce6788120b06997efa6f2cfd0592a7d50f28a1114605c8c23f091",
+      "dHash": "e17888614c8e9669",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 140.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Name editor populated with changed last name; black forward and native keyboard."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-142",
+      "originalFilename": "Bond ios Aug 2026 141.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "4b3f2e96cc618a3de8f46ca749488d231efb1f572edb9435322a0ed27f89a6ad",
+      "dHash": "871620451b1381e9",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 141.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Memories overview after name change: same discovery and Recent card, original portrait; time differs."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-143",
+      "originalFilename": "Bond ios Aug 2026 142.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "701d43b13ae210ed0af433c04a660462399624bfc90b04ffa6aeea8cea6a96bf",
+      "dHash": "87358e8e8e3381e1",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 142.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Profile sharing sheet: centered share card/QR and horizontal service actions; third-party brands excluded."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-144",
+      "originalFilename": "Bond ios Aug 2026 143.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "12e48cfdca9e3cd881df022a1d01cd0ca5927d0c0c2cdd29d21c2b918b5a666d",
+      "dHash": "87378e8e8e3381e1",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 143.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Profile share copied: Copy link circle becomes check and Copied label."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-145",
+      "originalFilename": "Bond ios Aug 2026 144.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "cf7047e4308047ec3002c12cb5968464077b88a5eb3b2f88f9a1c2059e767133",
+      "dHash": "871620451b0b8969",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 144.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Profile More submenu: white nested popover, divider and red Delete Account; delete-account workflow not imported."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-146",
+      "originalFilename": "Bond ios Aug 2026 145.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "5fa67b7d462a1a3ef94adb4dfa6de04da6693acb50f4bb7d17f30b1d5bdadc7e",
+      "dHash": "875541ce922381e1",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 145.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Delete account confirmation: centered translucent rounded dialog with vertically stacked destructive and cancel actions."
+      },
+      "family": "profile-settings",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-147",
+      "originalFilename": "Bond ios Aug 2026 146.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "63c3da07c330bfdf428bf46dad84da78c034f1c7fbf835d1a036be6d5f8d0eb1",
+      "dHash": "971420000914c069",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 146.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Inbox mixed events: gray unread region, avatar/badge/title/time rows, selected filled bottom-navigation icon."
+      },
+      "family": "inbox",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-148",
+      "originalFilename": "Bond ios Aug 2026 147.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "de0c56a50e4548527f983dddc9018052e42f145a1086f085ad2fd0b4c4e264db",
+      "dHash": "97141c0505414869",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 147.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Inbox requests: black Accept pills, repeated activity rows, consistent grayscale surfaces."
+      },
+      "family": "inbox",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    },
+    {
+      "id": "BOND-149",
+      "originalFilename": "Bond ios Aug 2026 148.png",
+      "width": 1179,
+      "height": 2676,
+      "sha256": "9a53f5dee7851ac69a7d03ca71117849e3c3cdf973da818166cb719ec26a5c97",
+      "dHash": "971d0d0d6060cc69",
+      "path": "design/reference/bond/originals/Bond ios Aug 2026 148.png",
+      "inspected": true,
+      "inspection": {
+        "method": "individual readable image at 600 px width; originals available for measurements",
+        "reviewedAt": "2026-10-24",
+        "note": "Inbox accepted state: Accepted disabled labels, pink like badge, long event list and bottom navigation."
+      },
+      "family": "inbox",
+      "appViewportCrop": [0, 0, 1179, 2556],
+      "platformChromeExcluded": [
+        "status bar",
+        "keyboard when present",
+        "photo library/cropper when present",
+        "Mobbin attribution strip y=2556..2676"
+      ]
+    }
+  ],
+  "inspectedCount": 149,
+  "nearDuplicateCandidates": [
+    {
+      "a": "BOND-004",
+      "b": "BOND-005",
+      "distance": 0,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-017",
+      "b": "BOND-018",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-023",
+      "b": "BOND-095",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-028",
+      "b": "BOND-091",
+      "distance": 0,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-028",
+      "b": "BOND-122",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-030",
+      "b": "BOND-040",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-032",
+      "b": "BOND-033",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-035",
+      "b": "BOND-036",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-035",
+      "b": "BOND-046",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-036",
+      "b": "BOND-037",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-036",
+      "b": "BOND-046",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-065",
+      "b": "BOND-066",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-066",
+      "b": "BOND-076",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-068",
+      "b": "BOND-069",
+      "distance": 0,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-068",
+      "b": "BOND-090",
+      "distance": 0,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-068",
+      "b": "BOND-103",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-069",
+      "b": "BOND-090",
+      "distance": 0,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-069",
+      "b": "BOND-103",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-073",
+      "b": "BOND-074",
+      "distance": 0,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-073",
+      "b": "BOND-075",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-074",
+      "b": "BOND-075",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-084",
+      "b": "BOND-085",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-086",
+      "b": "BOND-087",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-090",
+      "b": "BOND-103",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-091",
+      "b": "BOND-122",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-099",
+      "b": "BOND-100",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-100",
+      "b": "BOND-102",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-108",
+      "b": "BOND-109",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-111",
+      "b": "BOND-112",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-132",
+      "b": "BOND-133",
+      "distance": 0,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-134",
+      "b": "BOND-145",
+      "distance": 2,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-139",
+      "b": "BOND-142",
+      "distance": 0,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-140",
+      "b": "BOND-141",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    },
+    {
+      "a": "BOND-143",
+      "b": "BOND-144",
+      "distance": 1,
+      "review": "Visually inspected; retain both because text, timing, selection or state may differ."
+    }
+  ],
+  "exactDuplicateGroups": []
+}

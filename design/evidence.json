@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "sourceArchive": {
+    "filename": "Bond ios Aug 2026.zip",
+    "sha256": "1eab71e7ef1c494b9aae719fbd1f4bf730cc1aefae1b6b187787d0f121b177bb"
+  },
+  "inspectedCount": 149,
+  "coordinateSpace": "original screenshot pixels; nominal 3px per logical unit is inferred, not guaranteed",
+  "families": [
+    {
+      "name": "account-onboarding",
+      "firstId": "BOND-001",
+      "lastId": "BOND-022"
+    },
+    {
+      "name": "home-and-discovery",
+      "firstId": "BOND-023",
+      "lastId": "BOND-059"
+    },
+    {
+      "name": "capture-and-story",
+      "firstId": "BOND-060",
+      "lastId": "BOND-090"
+    },
+    {
+      "name": "story-and-conversation",
+      "firstId": "BOND-091",
+      "lastId": "BOND-109"
+    },
+    {
+      "name": "connections-and-profile",
+      "firstId": "BOND-110",
+      "lastId": "BOND-124"
+    },
+    {
+      "name": "memories-and-exploration",
+      "firstId": "BOND-125",
+      "lastId": "BOND-133"
+    },
+    {
+      "name": "profile-settings",
+      "firstId": "BOND-134",
+      "lastId": "BOND-146"
+    },
+    {
+      "name": "inbox",
+      "firstId": "BOND-147",
+      "lastId": "BOND-149"
+    }
+  ],
+  "findings": [
+    {
+      "id": "neutral-field",
+      "kind": "observed",
+      "sourceIds": ["BOND-023", "BOND-034", "BOND-127"],
+      "region": "Unoccluded margins, excluding imagery, status bars and footer",
+      "approximateMeasurement": "Repeated flat RGB(246,246,246), sampled original pixels at (20,500), (1100,1100), (600,1950), (10,600)",
+      "confidence": "high",
+      "conclusion": "Main light canvas is approximately #F6F6F6; welcome screen 001 differs around #F0F0F0."
+    },
+    {
+      "id": "white-surfaces",
+      "kind": "observed",
+      "sourceIds": ["BOND-034", "BOND-055", "BOND-127"],
+      "region": "Card interior excluding text, imagery and shadows",
+      "approximateMeasurement": "Repeated flat RGB(253,253,253) at 034:(80,1650), 127:(700,1810); adopt white #FFFFFF",
+      "confidence": "high",
+      "conclusion": "White cards are subtly brighter than the neutral field; use stable white for Afterglow card content."
+    },
+    {
+      "id": "primary-actions",
+      "kind": "observed",
+      "sourceIds": ["BOND-001", "BOND-017", "BOND-034", "BOND-073"],
+      "region": "Continue/Post/Regenerate/Done actions",
+      "approximateMeasurement": "001 button approximately x=72..1107, y=2330..2485 original pixels; radius near half its height; broad horizontal pill",
+      "confidence": "high",
+      "conclusion": "Black pill primary actions, white labels. White secondary pills with subtle diffuse shadow recur."
+    },
+    {
+      "id": "circle-controls",
+      "kind": "adaptation",
+      "sourceIds": ["BOND-002", "BOND-041", "BOND-140"],
+      "region": "Back/next/close circular actions",
+      "approximateMeasurement": "Reference diameter approximately 118–124 original pixels, about 40–41 logical units under 3x hypothesis; increase to 44 minimum",
+      "confidence": "high",
+      "conclusion": "Use circular IconButton with at least 44x44 touch area. Pressed/focus treatment is an Afterglow adaptation, not extracted motion."
+    },
+    {
+      "id": "layout-rhythm",
+      "kind": "inferred",
+      "sourceIds": ["BOND-034", "BOND-056", "BOND-127"],
+      "region": "Page edges, row gaps, card padding",
+      "approximateMeasurement": "Outer margin roughly 46–50 original pixels (~16 logical); inner card padding roughly 48–60px (~16–20); repeated gaps near 24–48px",
+      "confidence": "medium",
+      "conclusion": "Adopt spacing 4/8/12/16/24/32/48 and a 16-unit page gutter; retain product world gutter separately."
+    },
+    {
+      "id": "rounded-cards",
+      "kind": "observed",
+      "sourceIds": ["BOND-034", "BOND-051", "BOND-127"],
+      "region": "White recommendation/list outlines",
+      "approximateMeasurement": "Outer corner radius roughly 64–84 original pixels (~21–28 logical); sheet top radius closer to 90–110px",
+      "confidence": "medium",
+      "conclusion": "Large rounded surfaces and inset content; Afterglow list Card radius 24, Sheet 32. Spatial memory cards retain specified 16-unit corners."
+    },
+    {
+      "id": "type-system",
+      "kind": "inferred",
+      "sourceIds": ["BOND-007", "BOND-034", "BOND-113", "BOND-127"],
+      "region": "Actual UI heading, list title and metadata; exclude logo/sticker/handwriting",
+      "approximateMeasurement": "Body approximately 42–50px high in original raster; titles approximately 60–75px; exact font metrics cannot be recovered from glyph raster height",
+      "confidence": "medium",
+      "conclusion": "Use platform System sans as an explicitly substituted font, weights 400/500/600/700, body 16/24, caption 13/18, title 24/30, display 32/38. Exact original family/license unknown."
+    },
+    {
+      "id": "identity",
+      "kind": "observed",
+      "sourceIds": ["BOND-042", "BOND-056", "BOND-113", "BOND-138"],
+      "region": "Circular portraits, initials fallback and names",
+      "approximateMeasurement": "List avatars roughly 118–145px (~40–48 units); profile portrait roughly 285px (~96 units); initials visible in 042 and 056",
+      "confidence": "high",
+      "conclusion": "Circular Avatar with named/initials fallback; optional overlapping AvatarGroup only for identity, never primary memory cards."
+    },
+    {
+      "id": "selection",
+      "kind": "observed",
+      "sourceIds": ["BOND-043", "BOND-070", "BOND-075", "BOND-085"],
+      "region": "Selection checks and selected tab/action capsules",
+      "approximateMeasurement": "Filled black circle/check, pale inactive control surfaces, icon and text used together",
+      "confidence": "high",
+      "conclusion": "Chip and SegmentedControl expose semantic selected state and visible check or emphasis; selection never relies on hue alone."
+    },
+    {
+      "id": "feedback",
+      "kind": "observed",
+      "sourceIds": [
+        "BOND-006",
+        "BOND-010",
+        "BOND-018",
+        "BOND-047",
+        "BOND-051",
+        "BOND-109",
+        "BOND-124"
+      ],
+      "region": "Status copy, error notification, skeleton and finalized row",
+      "approximateMeasurement": "Green success text, coral/red errors, pale image/text skeleton; notifications are rounded horizontal surfaces",
+      "confidence": "high",
+      "conclusion": "Loading, error, success and skeleton states are evidenced. Timing, shimmer, haptics and transitions are unknown static-screen behavior."
+    },
+    {
+      "id": "sheets-and-dialogs",
+      "kind": "observed",
+      "sourceIds": [
+        "BOND-041",
+        "BOND-048",
+        "BOND-054",
+        "BOND-058",
+        "BOND-073",
+        "BOND-121",
+        "BOND-146"
+      ],
+      "region": "Overlay silhouette, handle, backdrop and action layout",
+      "approximateMeasurement": "Sheets inset about 24px (~8 units) from export edge, radius ~100px (~33 units); scrim roughly 20% black over #F6F6F6",
+      "confidence": "medium",
+      "conclusion": "Use native Modal-backed Sheet and ConfirmDialog, explicit close/Cancel, native Back, modal accessibility and focus restoration. Blur is adapted to a solid stable surface."
+    },
+    {
+      "id": "icon-language",
+      "kind": "inferred",
+      "sourceIds": ["BOND-034", "BOND-056", "BOND-073", "BOND-134"],
+      "region": "Arrow, image, edit, trash and user glyphs",
+      "approximateMeasurement": "Mostly thin outline glyphs around 20–24 logical units; filled selected icons and circular containers",
+      "confidence": "medium",
+      "conclusion": "Use licensed Feather icons through Expo as a documented substitute. Do not reuse Bond marks or third-party service icons."
+    },
+    {
+      "id": "color-accessibility",
+      "kind": "adaptation",
+      "sourceIds": ["BOND-010", "BOND-047", "BOND-111", "BOND-127"],
+      "region": "Secondary text, validation and connection action colors",
+      "approximateMeasurement": "Observed gray near #8E8E8E is too weak for small text on the field; use #626262. Adopt danger #B4232C, success #246B3C, focus #006AB5",
+      "confidence": "high",
+      "conclusion": "Preserve neutral hierarchy while darkening text/status colors for contrast. Blue social actions do not authorize a generic all-blue primary system."
+    },
+    {
+      "id": "dark-context",
+      "kind": "observed",
+      "sourceIds": ["BOND-024", "BOND-025", "BOND-053", "BOND-062", "BOND-079"],
+      "region": "Photo library, photo viewing and story editor",
+      "approximateMeasurement": "Dark surfaces appear in media/editor contexts; ordinary home/profile/memory lists remain light",
+      "confidence": "high",
+      "conclusion": "Ship a light theme only; contextual dark media views are documented, not evidence of complete dark-theme tokens."
+    },
+    {
+      "id": "memory-adaptation",
+      "kind": "adaptation",
+      "sourceIds": ["BOND-014", "BOND-017", "BOND-034", "BOND-127"],
+      "region": "Photo framing, story content and attribution",
+      "approximateMeasurement": "Afterglow specification: canonical width 308, minimum world gap 16, card padding/corner 16, camera scale .75..1.25",
+      "confidence": "high",
+      "conclusion": "Photos/stories use separated cards with metadata below stable imagery. Do not import tilted overlapping story thumbnails, photo-overlaid body text, social counts, OTP or voice behaviors."
+    },
+    {
+      "id": "state-adaptation",
+      "kind": "adaptation",
+      "sourceIds": ["BOND-018", "BOND-051", "BOND-054", "BOND-075", "BOND-116"],
+      "region": "Errors, loading, empty, selected and pending states",
+      "approximateMeasurement": "No screenshot proves hover/focus transitions, upload-percent visuals, native text scaling or reduced-motion behavior",
+      "confidence": "high",
+      "conclusion": "Pressed/focus/disabled/upload progress and reduced-motion states are designed adaptations; test them separately from reference fidelity."
+    }
+  ]
+}

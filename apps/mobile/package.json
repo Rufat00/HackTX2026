@@ -1,0 +1,40 @@
+{
+  "name": "@afterglow/mobile",
+  "private": true,
+  "main": "expo-router/entry",
+  "scripts": {
+    "dev": "expo start --lan",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@afterglow/contracts": "workspace:*",
+    "@better-auth/expo": "1.7.12",
+    "@expo/dom-webview": "58.0.2",
+    "@expo/metro-runtime": "58.0.15",
+    "@expo/vector-icons": "15.1.1",
+    "@tanstack/react-form": "1.33.5",
+    "@tanstack/react-query": "5.104.5",
+    "better-auth": "1.7.12",
+    "expo": "58.0.19",
+    "expo-audio": "58.0.10",
+    "expo-blob": "58.0.3",
+    "expo-constants": "58.0.13",
+    "expo-image-picker": "58.0.10",
+    "expo-linking": "58.0.14",
+    "expo-network": "58.0.4",
+    "expo-router": "58.0.26",
+    "expo-secure-store": "58.0.2",
+    "expo-web-browser": "58.0.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-native": "0.88.0",
+    "react-native-safe-area-context": "5.10.1",
+    "react-native-screens": "4.30.0",
+    "zod": "4.1.12"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0"
+  }
+}

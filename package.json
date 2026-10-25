@@ -1,0 +1,52 @@
+{
+  "name": "afterglow",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.30.0",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "dev": "pnpm --parallel --filter @afterglow/api --filter @afterglow/mobile dev",
+    "dev:api": "pnpm --filter @afterglow/api dev",
+    "dev:mobile": "pnpm --filter @afterglow/mobile dev",
+    "typecheck": "pnpm design:tokens:check && pnpm -r typecheck && tsc -p tsconfig.json",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "vitest run",
+    "test:integration": "node --env-file=.env ./node_modules/vitest/vitest.mjs run --config vitest.integration.config.ts",
+    "db:generate": "pnpm --filter @afterglow/db generate",
+    "db:validate": "pnpm --filter @afterglow/db validate",
+    "db:migrate": "pnpm --filter @afterglow/db migrate",
+    "db:deploy": "pnpm --filter @afterglow/db run deploy",
+    "db:seed": "tsx --env-file=.env scripts/seed.ts",
+    "services:up": "docker compose up -d",
+    "services:down": "docker compose down",
+    "storage:init": "tsx --env-file=.env scripts/init-storage.ts",
+    "storage:cleanup": "tsx --env-file=.env scripts/cleanup-storage.ts",
+    "ai:check": "tsx --env-file=.env scripts/check-ai.ts",
+    "auth:schema": "auth generate --config packages/auth/src/schema-auth.ts --output packages/db/prisma/auth.generated.prisma --yes",
+    "design:import": "python3 scripts/design/import-bond.py",
+    "design:tokens": "tsx scripts/design/generate-tokens.ts",
+    "design:tokens:check": "tsx scripts/design/generate-tokens.ts --check",
+    "design:references:check": "python3 scripts/design/check-references.py",
+    "design:compare": "python3 scripts/design/compare-reference.py",
+    "design:test:import": "python3 scripts/design/test-import-bond.py"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/node": "24.10.0",
+    "tsx": "4.20.6",
+    "vitest": "3.2.4",
+    "eslint": "9.39.1",
+    "typescript-eslint": "8.46.2",
+    "prettier": "3.6.2",
+    "@afterglow/db": "workspace:*",
+    "@afterglow/storage": "workspace:*",
+    "@afterglow/auth": "workspace:*",
+    "@afterglow/ai": "workspace:*",
+    "auth": "1.7.12",
+    "@afterglow/core": "workspace:*"
+  }
+}

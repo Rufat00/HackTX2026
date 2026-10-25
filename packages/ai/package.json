@@ -1,0 +1,15 @@
+{
+  "name": "@afterglow/ai",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./composition": "./src/composition.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "openai": "6.9.1",
+    "zod": "4.1.12"
+  }
+}

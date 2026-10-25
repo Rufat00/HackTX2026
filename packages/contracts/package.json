@@ -1,0 +1,17 @@
+{
+  "name": "@afterglow/contracts",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./schemas": "./src/schemas/account-schema.ts",
+    "./errors": "./src/errors.ts",
+    "./memories": "./src/schemas/memory-schema.ts",
+    "./music": "./src/schemas/music-schema.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "zod": "4.1.12"
+  }
+}

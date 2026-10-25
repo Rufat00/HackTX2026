@@ -1,0 +1,22 @@
+{
+  "name": "@afterglow/core",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./context": "./src/context.ts",
+    "./profile": "./src/profile.ts",
+    "./assets": "./src/assets.ts",
+    "./maintenance": "./src/maintenance.ts",
+    "./boards": "./src/boards.ts",
+    "./music": "./src/music.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@afterglow/db": "workspace:*",
+    "@afterglow/contracts": "workspace:*",
+    "@afterglow/storage": "workspace:*",
+    "@afterglow/ai": "workspace:*"
+  }
+}
